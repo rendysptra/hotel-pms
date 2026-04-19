@@ -126,7 +126,7 @@ hotel-pms/
 ## 📊 Progress Pengembangan
 
 ### Minggu 1 — Fondasi (Target: `22 April 2026`)
-- ✅ Setup repository & branch structure
+- [x] Setup repository & branch structure
 - [ ] Abstract class `Person`, `Guest`, `Staff`
 - [ ] Class `Room` dan semua subtype
 - [ ] Class `Reservation` dan `FolioItem`
