@@ -4,10 +4,33 @@
  */
 package com.hotelpms.exception;
 
+import java.time.LocalDate;
+
 /**
+ * Exception yang dilempar ketika input tanggal tidak valid.
+ * Contoh: tanggal check-out sebelum check-in,
+ * atau tanggal yang sudah lewat.
  *
- * @author pandj
+ * @author Rendy & Panji
+ * @version 1.0
  */
-public class InvalidDateException {
-    
+public class InvalidDateException extends Exception {
+
+    private final LocalDate checkIn;
+    private final LocalDate checkOut;
+
+    public InvalidDateException(LocalDate checkIn, LocalDate checkOut) {
+        super("Tanggal tidak valid: check-in " + checkIn + " | check-out " + checkOut);
+        this.checkIn  = checkIn;
+        this.checkOut = checkOut;
+    }
+
+    public InvalidDateException(String message) {
+        super(message);
+        this.checkIn  = null;
+        this.checkOut = null;
+    }
+
+    public LocalDate getCheckIn()  { return checkIn; }
+    public LocalDate getCheckOut() { return checkOut; }
 }

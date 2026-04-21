@@ -5,9 +5,27 @@
 package com.hotelpms.exception;
 
 /**
+ * Exception yang dilempar ketika terjadi kesalahan
+ * dalam penerbitan atau validasi key card.
  *
- * @author pandj
+ * @author Rendy & Panji
+ * @version 1.0
  */
-public class KeyCardException {
-    
+public class KeyCardException extends Exception {
+
+    private final String keyCardId;
+
+    public KeyCardException(String keyCardId) {
+        super("Gagal memproses key card: " + keyCardId);
+        this.keyCardId = keyCardId;
+    }
+
+    public KeyCardException(String keyCardId, String message) {
+        super(message);
+        this.keyCardId = keyCardId;
+    }
+
+    public String getKeyCardId() {
+        return keyCardId;
+    }
 }
