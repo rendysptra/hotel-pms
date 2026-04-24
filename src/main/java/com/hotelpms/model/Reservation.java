@@ -66,7 +66,7 @@ public class Reservation {
     
     // Hitung jumlah malam menginap
     public long getTotalNights() {
-        return ChronoUnit.DAYS.between(checkInDate, checkInDate);
+        return ChronoUnit.DAYS.between(checkInDate, checkOutDate);
     }
     
     // Hitung subtotal semua FolioItem sebelum pajak

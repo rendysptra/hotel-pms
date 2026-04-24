@@ -15,7 +15,7 @@ import java.time.LocalDate;
 public class VIPRoom extends Room {
     
     // Konstanta
-    public static final double PRICE_PER_NIGHT = 600_000;
+    public static final double PRICE_PER_NIGHT = 1_200_000;
     
     // Atribut tambahan
     private boolean hasPrivatePool;

@@ -61,7 +61,7 @@ public class Guest extends Person{
     * @return nilai preferensi, atau "Tidak ada" jika tidak ditemukan
     */
    public String getPreference(String key){
-       return preferences.getOrDefault(key, "Tidak Ada");
+       return preferences.getOrDefault(key, "Tidak ada");
    }
    
    /**

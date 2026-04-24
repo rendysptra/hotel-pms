@@ -40,7 +40,7 @@ public class Receptionist extends Staff {
     * @param reservationId ID reservasi yang akan di-check-in
     * @return String konfirmasi check-in berhasil
     */
-    public String prosessCheckIn(String reservationId){
+    public String processCheckIn(String reservationId){
         totalCheckInsHandled++;
         String timestamp = LocalDateTime.now().format(DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm"));
         return String.format(
@@ -55,7 +55,7 @@ public class Receptionist extends Staff {
     * @param reservationId ID reservasi yang akan di-check-out
     * @return String konfirmasi check-out berhasil
     */
-    public String prosessCheckOut(String reservationId){
+    public String processCheckOut(String reservationId){
         totalCheckOutsHandled++;
         String timestamp = LocalDateTime.now().format(DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm"));
         return String.format(
