@@ -125,15 +125,15 @@ hotel-pms/
 
 ## 📊 Progress Pengembangan
 
-### Minggu 1 — Fondasi (Target: `22 April 2026`)
+### Minggu 1 — Fondasi (Target: `22 April 2026`) ✅ Tested
 - [x] Setup repository & branch structure
-- [ ] Abstract class `Person`, `Guest`, `Staff`
-- [ ] Class `Room` dan semua subtype
-- [ ] Class `Reservation` dan `FolioItem`
-- [ ] Interface `Bookable`
-- [ ] Enum `RoomStatus`, `PaymentStatus`
-- [ ] Custom exceptions
-- [ ] `CSVHandler` read/write dasar
+- [x] Abstract class `Person`, `Guest`, `Staff`
+- [x] Class `Room` dan semua subtype
+- [x] Class `Reservation` dan `FolioItem`
+- [x] Interface `Bookable`
+- [x] Enum `RoomStatus`, `PaymentStatus`
+- [x] Custom exceptions
+- [x] `CSVHandler` read/write dasar
 
 ### Minggu 2 — Core Services (Target: `29 April 2026`)
 - [ ] `HotelService` — booking, auto room assignment
