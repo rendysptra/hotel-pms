@@ -188,7 +188,7 @@ public class BillingService {
 
         String date = LocalDate.now()
                 .format(DateTimeFormatter.ofPattern("dd MMMM yyyy",
-                        new java.util.Locale("id", "ID")));
+                        java.util.Locale.of("id", "ID")));
 
         StringBuilder sb = new StringBuilder();
         sb.append("╔════════════════════════════════════════════╗\n");
