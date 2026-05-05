@@ -6,7 +6,6 @@ package com.hotelpms.util;
 
 import com.hotelpms.enums.RoomStatus;
 import com.hotelpms.model.DeluxeRoom;
-import com.hotelpms.model.FolioItem;
 import com.hotelpms.model.Guest;
 import com.hotelpms.model.Reservation;
 import com.hotelpms.model.Room;
