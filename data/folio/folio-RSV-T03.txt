@@ -1,0 +1,24 @@
+╔════════════════════════════════════════════╗
+║          HOTEL PMS — FOLIO TAMU            ║
+╚════════════════════════════════════════════╝
+Tanggal Cetak : 05 Mei 2026
+─────────────────────────────────────────────
+No. Reservasi : RSV-T03
+Tamu          : Budi
+No. KTP       : KTP001
+Kamar         : 101 (STANDARD)
+Check-in      : 01-06-2025
+Check-out     : 02-06-2025
+Lama Menginap : 1 malam
+─────────────────────────────────────────────
+No.  Deskripsi                               Jumlah
+─────────────────────────────────────────────
+1    Biaya Kamar STANDARD (1 malam x Rp. 300,000 / malam)     Rp. 300,000
+─────────────────────────────────────────────
+Subtotal                                Rp 300,000
+Pajak (11%)                              Rp 33,000
+─────────────────────────────────────────────
+TOTAL                                   Rp 333,000
+─────────────────────────────────────────────
+
+Terima kasih telah menginap di Hotel PMS!

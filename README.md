@@ -135,14 +135,14 @@ hotel-pms/
 - [x] Custom exceptions
 - [x] `CSVHandler` read/write dasar
 
-### Minggu 2 — Core Services (Target: `29 April 2026`)
-- [ ] `HotelService` — booking, auto room assignment
-- [ ] Check-in dengan `issueKeyCard()`
-- [ ] Check-out dengan `autoDirtyOnCheckout()`
-- [ ] `BillingService` — folio itemized + pajak
-- [ ] `HousekeepingService` — workflow status kamar
-- [ ] `ReportService` — occupancy & revenue
-- [ ] Unit test semua service
+### Minggu 2 — Core Services (Target: `29 April 2026`) ✅ Tested
+- [x] `HotelService` — booking, auto room assignment
+- [x] Check-in dengan `issueKeyCard()`
+- [x] Check-out dengan `autoDirtyOnCheckout()`
+- [x] `BillingService` — folio itemized + pajak
+- [x] `HousekeepingService` — workflow status kamar
+- [x] `ReportService` — occupancy & revenue
+- [x] Unit test semua service
 
 ### Minggu 3 — UI Swing (Target: `06 Mei 2026`)
 - [ ] `MainFrame` + sidebar navigasi
