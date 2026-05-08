@@ -3,22 +3,22 @@
 ╚════════════════════════════════════════════╝
 Tanggal Cetak : 06 Mei 2026
 ─────────────────────────────────────────────
-No. Reservasi : RSV-T03
-Tamu          : Budi
+No. Reservasi : RSV-20260506-001
+Tamu          : Budi Santoso
 No. KTP       : KTP001
 Kamar         : 101 (STANDARD)
-Check-in      : 01-06-2025
-Check-out     : 02-06-2025
-Lama Menginap : 1 malam
+Check-in      : 07-05-2026
+Check-out     : 09-05-2026
+Lama Menginap : 2 malam
 ─────────────────────────────────────────────
 No.  Deskripsi                               Jumlah
 ─────────────────────────────────────────────
-1    Biaya Kamar STANDARD (1 malam x Rp. 300,000 / malam)     Rp. 300,000
+1    Biaya Kamar STANDARD (2 malam x Rp. 300,000 / malam)     Rp. 600,000
 ─────────────────────────────────────────────
-Subtotal                                Rp 300,000
-Pajak (11%)                              Rp 33,000
+Subtotal                                Rp 600,000
+Pajak (11%)                              Rp 66,000
 ─────────────────────────────────────────────
-TOTAL                                   Rp 333,000
+TOTAL                                   Rp 666,000
 ─────────────────────────────────────────────
 
 Terima kasih telah menginap di Hotel PMS!
