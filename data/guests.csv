@@ -1,1 +1,8 @@
 guestId,name,phone,email,idCard,preferences,loyaltyPoints
+GST-001,Budi Santoso,08111111111,budi@email.com,3201010101010001,floor=high;bed=king,250
+GST-002,Sari Dewi,08222222222,sari@email.com,3201010101010002,smoking=no;bed=twin,100
+GST-003,Ahmad Fauzi,08333333333,ahmad@email.com,3201010101010003,floor=low;bed=king,75
+GST-004,Rina Marlina,08444444444,rina@email.com,3201010101010004,-,50
+GST-005,Doni Pratama,08555555555,doni@email.com,3201010101010005,floor=high;bed=king,320
+GST-006,Putri Handayani,08666666666,putri@email.com,3201010101010006,smoking=no,0
+GST-007,Hendra Wijaya,08777777777,hendra@email.com,3201010101010007,bed=king;floor=high,180
