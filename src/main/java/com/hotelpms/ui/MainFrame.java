@@ -7,10 +7,7 @@ package com.hotelpms.ui;
 import com.hotelpms.service.HotelService;
 
 import javax.swing.*;
-import javax.swing.table.DefaultTableModel;
 import java.awt.*;
-import java.awt.event.MouseAdapter;
-import java.awt.event.MouseEvent;
 
 /**
  * JFrame utama aplikasi Hotel PMS.

@@ -40,7 +40,6 @@ public class GuestPanel extends JPanel implements Refreshable {
 
     // ─── Komponen Detail ──────────────────────────────────────
     private JPanel detailPanel;
-    private JTextArea preferenceArea;
     private DefaultTableModel historyTableModel;
 
     // ─── Komponen Search ──────────────────────────────────────

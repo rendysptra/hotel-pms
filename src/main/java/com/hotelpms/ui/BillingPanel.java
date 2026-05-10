@@ -14,7 +14,6 @@ import javax.swing.*;
 import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
-import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 
